@@ -1,24 +1,6 @@
-# README
+# Reddit Clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. I want users to be able sign up/in/out
+2. I want signed in users to be able to submit a link with a title/url
+3. I want to be able to vote up/down on a link
+4. I want to be able to add comments on links/submissions
