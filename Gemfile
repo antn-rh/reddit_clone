@@ -35,6 +35,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise', '~> 4.2'
 # Bootstrap sass gem
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+# Acts as votable gem
+gem 'acts_as_votable', '~> 0.10.0'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
