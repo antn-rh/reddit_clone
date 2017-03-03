@@ -33,6 +33,8 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 # Devise gem for users model
 gem 'devise', '~> 4.2'
+# Bootstrap sass gem
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
